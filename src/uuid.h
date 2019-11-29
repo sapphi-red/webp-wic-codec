@@ -18,7 +18,8 @@ DEFINE_GUID(CLSID_WebpWICDecoder, 0xc747a836, 0x4884, 0x47b8, 0x85, 0x44, 0x0, 0
 
 // GUID of the Webp container format.
 // {1F122879-EBA0-4670-98C5-CF29F3B98711}
-DEFINE_GUID(GUID_ContainerFormatWebp, 0x1f122879, 0xeba0, 0x4670, 0x98, 0xc5, 0xcf, 0x29, 0xf3, 0xb9, 0x87, 0x11);
+//(GUID_ContainerFormatWebp, 0x1f122879, 0xeba0, 0x4670, 0x98, 0xc5, 0xcf, 0x29, 0xf3, 0xb9, 0x87, 0x11);
+// already defined in "Windows Kits\10\Include\10.0.18362.0\um\wincodec.h"
 
 // GUID used as the vendor of this DLL.
 // {D4837961-2609-4B94-A9CB-A42A209AA021}

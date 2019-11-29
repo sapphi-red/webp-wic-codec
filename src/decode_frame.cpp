@@ -15,7 +15,7 @@
 #include <cstdlib>
 #include <memory>
 
-#include "webp/decode.h"
+#include "src/webp/decode.h"
 
 #ifdef WEBP_DEBUG_LOGGING
 #include "stopwatch.h"

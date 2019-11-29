@@ -13,7 +13,7 @@
 #include "decode_container.h"
 
 #include <new>
-#include "webp/decode.h"  // for WebPGetInfo
+#include "src/webp/decode.h"  // for WebPGetInfo
 #include "decode_frame.h"
 #include "uuid.h"
 
